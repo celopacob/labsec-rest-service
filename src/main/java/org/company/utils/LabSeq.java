@@ -3,6 +3,7 @@ package org.company.utils;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class LabSeq {
 
     private static final Map<Integer, Integer> memo = new HashMap<>();
